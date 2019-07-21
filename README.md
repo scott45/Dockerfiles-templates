@@ -1,3 +1,3 @@
 # Dockerfiles-templates
 
-Sample dockerfiles for all programming languages
+Sample dockerfiles for all programming languages.
