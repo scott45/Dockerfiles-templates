@@ -1,6 +1,6 @@
 FROM python3.6:latest
 
-LABEL AUTHOR="Scott Businge <businge.scott@andela.com>"
+LABEL AUTHOR="Scott Businge <email>"
 LABEL app="app-name"
 
 WORKDIR /app
