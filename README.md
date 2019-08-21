@@ -1,3 +1,3 @@
-# Dockerfiles-templates (Diff languages)
+# Dockerfiles-templates (Diff languages).
 
 Sample dockerfiles for all programming languages.
