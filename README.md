@@ -1,3 +1,3 @@
 # Dockerfile-templates (most used languages)
 
-Sample minimal dockerfiles for all programming languages.
+Sample minimal dockerfiles for listed programming languages. 
